@@ -18,7 +18,7 @@ If you are already prepared, please continue with the installation.
 
 ## Installation
 
-Within the Home assistant themes folder, create a file named "xmas.yaml".
+Within the Home Assistant themes folder, create a file named "xmas.yaml".
 
 In this GitHub repo, go into the themes folder, open the xmas.yaml file and copy the contents
 Paste the contents in the "xmas.yaml" file created under your Home Assistant themes folder.
