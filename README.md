@@ -28,3 +28,5 @@ Download the image Schneemann.jpg and upload it to the "www" config folder.
 Restart Home-Assistant.
 
 After you have restarted Home Assistant, go to “Users” at the bottom left. Scroll down to “Themes” and change it to “Xmas”.
+
+https://github.com/23Phantom08/Xmas-Theme/blob/main/preview%20settings.jpg
