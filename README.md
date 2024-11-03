@@ -20,7 +20,7 @@ If you are already prepared, please continue with the installation.
 
 Within the Home Assistant themes folder, create a file named "xmas.yaml".
 
-In this GitHub repo, go into the themes folder, open the xmas.yaml file and copy the contents
+In this GitHub repo, go into the "xmas.yaml", open the xmas code file and copy the contents
 Paste the contents in the "xmas.yaml" file created under your Home Assistant themes folder.
 
 Download the image Schneemann.jpg and upload it to the "www" config folder.
